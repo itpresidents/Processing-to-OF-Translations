@@ -15,9 +15,9 @@ class Module {
 	
 public:
 
-	Module(int xOffsetTemp, int yOffsetTemp, int xTemp, int yTemp, float speedTemp, int tempUnit); 
+	Module(); 
 	
-	void setup(); 
+	void setup(int xOffsetTemp, int yOffsetTemp, int xTemp, int yTemp, float speedTemp, int tempUnit); 
 	void update(); 
 	void draw(); 
 	

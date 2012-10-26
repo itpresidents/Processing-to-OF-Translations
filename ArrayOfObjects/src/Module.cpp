@@ -10,17 +10,18 @@
 #include "Module.h" //remember to include your class' .h file
 
 //constructor
-Module::Module(int xOffsetTemp, int yOffsetTemp, int xTemp, int yTemp, float speedTemp, int tempUnit) {
+Module::Module() {
+
+}
+
+//we added setup since we can't initialize these in the .h file
+void Module::setup(int xOffsetTemp, int yOffsetTemp, int xTemp, int yTemp, float speedTemp, int tempUnit) {
 	xOffset = xOffsetTemp;
     yOffset = yOffsetTemp;
     x = xTemp;
     y = yTemp;
     speed = speedTemp;
     unit = tempUnit;
-}
-
-//we added setup since we can't initialize these in the .h file
-void Module::setup() {
 	xDirection = 1;
 	yDirection = 1;	
 }

@@ -26,16 +26,12 @@ void testApp::setup(){
 	//how you add values into a vector
 	for (int y = 0; y < highCount; y++) {
 		for (int x = 0; x < wideCount; x++) {
-			Module m = *new Module(x*unit, y*unit, unit/2, unit/2, ofRandom(0.05, 0.8), unit); //make a temporary Module
+			Module m; //make a temporary Module
 			mods.push_back(m); // add that to the vector
+			mods[y*wideCount+x].setup(x*unit, y*unit, unit/2, unit/2, ofRandom(0.05, 0.8), unit); //use setup instead of the constructor
 		}
 	}
 	
-	//we created setup 
-	for (int i = 0; i < count; i++) {
-		mods[i].setup(); 
-	}
-
 }
 
 //--------------------------------------------------------------
