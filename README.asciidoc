@@ -1,16 +1,8 @@
 == ITP Processing to OF examples == +
 
-The original Processing sketches are included in the project folders or within the .cpp files.  +
-
-If you are having trouble running the sketch, it is probably the folder structure. A quick way to fix it is to just create a new project and copy the .h and .cpp files into your project.  +
-
-<<<<<<< HEAD
-=======
 The original Processing sketches are included in the project folders or within the .cpp files.  
 
 If you are having trouble running the sketch, it is probably the folder structure. +
 A quick way to fix it is to just create a new project and copy the .h and .cpp files into your project.  
 
 Requests? Add it to the wiki. 
->>>>>>> 599e1b4bdc21f50714f7bd3574a2d5bc09899590
-
