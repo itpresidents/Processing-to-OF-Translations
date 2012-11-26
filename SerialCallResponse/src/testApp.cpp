@@ -35,11 +35,11 @@ void testApp::update(){
 	//printf(" inByte %i \n ", inByte);
 
 	if (firstContact == false) {
-			if (inByte == 'A') {
-				serial.flush();
-				firstContact = true;
-				serial.writeByte('A');
-			}
+		if (inByte == 'A') {
+			serial.flush();
+			firstContact = true;
+			serial.writeByte('A');
+		}
 	} else {
 		serialInArray[serialCount] = inByte;
 		serialCount++;
