@@ -1,7 +1,7 @@
-== ITP Processing to OF examples ==
+== ITP Processing to OF examples == +
 
-The original Processing sketches are included in the project folders. 
+The original Processing sketches are included in the project folders or within the .cpp files.  +
 
-notes: 
-the ASCIIVideo example in OF is the same as the one in Processing
-Jeff Crouse has some good translations for Dan Shiffman's Nature of Code example. His link s are down for now, will update when he puts them back up. 
+If you are having trouble running the sketch, it is probably the folder structure. A quick way to fix it is to just create a new project and copy the .h and .cpp files into your project.  +
+
+
