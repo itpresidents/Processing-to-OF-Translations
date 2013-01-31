@@ -1,4 +1,4 @@
-== ITP Processing to OF examples == 
+ITP Processing to OF examples
 
 The original Processing sketches are included in the project folders or within the .cpp files.  
 
