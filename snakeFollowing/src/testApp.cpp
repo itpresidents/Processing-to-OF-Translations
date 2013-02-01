@@ -6,7 +6,7 @@ void testApp::setup(){
     ofSetWindowShape(800, 600);
     ofSetBackgroundColor(250, 240, 230);
     
-    
+    //Initialize the elements of the vector
     for (int i=0;i<50; i++) {
         posX.push_back(0);
         posY.push_back(0);
@@ -16,6 +16,8 @@ void testApp::setup(){
 
 //--------------------------------------------------------------
 void testApp::update(){
+    //shift positions and update to folow your mouse location
+    
     for (int i=0; i< posX.size()-1; i++){
         posX[i]=posX[i+1];
         posY[i]=posY[i+1];
@@ -28,6 +30,8 @@ void testApp::update(){
 
 //--------------------------------------------------------------
 void testApp::draw(){
+    
+    //draw every element of the vector
     for (int i=0; i<posX.size(); i++){
         ofFill();
         ofEnableAlphaBlending();
