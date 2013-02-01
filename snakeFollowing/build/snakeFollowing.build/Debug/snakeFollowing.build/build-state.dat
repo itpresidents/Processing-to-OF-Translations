@@ -1,0 +1,1351 @@
+TsnakeFollowing
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/Info.plist openFrameworks-Info.plist
+cProcessPCH++ /var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gwokzkrqagroofdgrapjscjerteq/Carbon.h.pth /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/main.o /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/testApp.o /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/MacOS/snakeFollowingDebug normal i386
+cPhaseScriptExecution "Run Script" /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+cPBXCp ../../../libs/glut/lib/osx/GLUT.framework bin/snakeFollowingDebug.app/Contents/Frameworks/GLUT.framework
+cTouch /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004FEDDAB400000000000000CC
+t1340988084
+s204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CarbonSound.framework/Headers/CarbonSound.h
+c000000004F6DE38A00000000000002A4
+t1332601738
+s676
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CarbonSound.framework/Headers/Sound.h
+c000000004F6DE38A000000000001BF49
+t1332601738
+s114505
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h
+c000000004F6DE38A0000000000001BA3
+t1332601738
+s7075
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h
+c000000004F6DE38A0000000000003FCD
+t1332601738
+s16333
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h
+c000000004F6DE38A0000000000000372
+t1332601738
+s882
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/FontPanel.h
+c000000004F6DE38A000000000000655F
+t1332601738
+s25951
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/AEInteraction.h
+c000000004FEDDA850000000000003962
+t1340988037
+s14690
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/Appearance.h
+c000000004FEDDA85000000000002C5DB
+t1340988037
+s181723
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/CarbonEvents.h
+c000000004FEDDA85000000000009A83B
+t1340988037
+s632891
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/CarbonEventsCore.h
+c000000004FEDDA85000000000001AB46
+t1340988037
+s109382
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/ControlDefinitions.h
+c000000004FEDDA850000000000004380
+t1340988037
+s17280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/Controls.h
+c000000004FEDDA8500000000000292D6
+t1340988037
+s168662
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/Dialogs.h
+c000000004FEDDA8500000000000106BB
+t1340988037
+s67259
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/Drag.h
+c000000004FEDDA850000000000010154
+t1340988037
+s65876
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/Events.h
+c000000004FEDDA850000000000007179
+t1340988037
+s29049
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIAccessibility.h
+c000000004FEDDA850000000000008BD6
+t1340988037
+s35798
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIArchive.h
+c000000004FEDDA850000000000004A1C
+t1340988037
+s18972
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIButtonViews.h
+c000000004FEDDA85000000000000858B
+t1340988037
+s34187
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIClockView.h
+c000000004FEDDA850000000000001732
+t1340988037
+s5938
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HICocoaView.h
+c000000004FEDDA850000000000001470
+t1340988037
+s5232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIComboBox.h
+c000000004FEDDA850000000000003CBE
+t1340988037
+s15550
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIContainerViews.h
+c000000004FEDDA850000000000007C05
+t1340988037
+s31749
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIDataBrowser.h
+c000000004FEDDA850000000000028192
+t1340988037
+s164242
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIDisclosureViews.h
+c000000004FEDDA850000000000002CD5
+t1340988037
+s11477
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIGeometry.h
+c000000004FEDDA850000000000002A7B
+t1340988037
+s10875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIImageViews.h
+c000000004FEDDA850000000000005471
+t1340988037
+s21617
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HILittleArrows.h
+c000000004FEDDA850000000000000B8C
+t1340988037
+s2956
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIMenuView.h
+c000000004FEDDA85000000000000127A
+t1340988037
+s4730
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIObject.h
+c000000004FEDDA85000000000000F9B2
+t1340988037
+s63922
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIPopupButton.h
+c000000004FEDDA85000000000000279D
+t1340988037
+s10141
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIProgressViews.h
+c000000004FEDDA8500000000000010AD
+t1340988037
+s4269
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIRelevanceBar.h
+c000000004FEDDA850000000000000829
+t1340988037
+s2089
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIScrollView.h
+c000000004FEDDA850000000000005901
+t1340988037
+s22785
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HISearchField.h
+c000000004FEDDA8500000000000039CA
+t1340988037
+s14794
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HISegmentedView.h
+c000000004FEDDA8500000000000079F7
+t1340988037
+s31223
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HISeparator.h
+c000000004FEDDA850000000000000906
+t1340988037
+s2310
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HISlider.h
+c000000004FEDDA850000000000002577
+t1340988037
+s9591
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HITabbedView.h
+c000000004FEDDA85000000000000278F
+t1340988037
+s10127
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HITextLengthFilter.h
+c000000004FEDDA850000000000000743
+t1340988037
+s1859
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HITextUtils.h
+c000000004FEDDA850000000000000F12
+t1340988037
+s3858
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HITextViews.h
+c000000004FEDDA850000000000008064
+t1340988037
+s32868
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HITheme.h
+c000000004FEDDA850000000000022A9F
+t1340988037
+s141983
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIToolbar.h
+c000000004FEDDA850000000000013467
+t1340988037
+s78951
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIToolbox.h
+c000000004FEDDA8500000000000011BC
+t1340988037
+s4540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIToolboxDebugging.h
+c000000004F6DE38A0000000000002325
+t1332601738
+s8997
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIView.h
+c000000004FEDDA85000000000002670C
+t1340988037
+s157452
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIWindowViews.h
+c000000004FEDDA85000000000000316D
+t1340988037
+s12653
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/IBCarbonRuntime.h
+c000000004FEDDA850000000000001311
+t1340988037
+s4881
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/IMKInputSession.h
+c000000004F6DE38A0000000000003D72
+t1332601738
+s15730
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/Keyboards.h
+c000000004FEDDA850000000000003CEA
+t1340988037
+s15594
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/Lists.h
+c000000004FEDDA85000000000000AD7C
+t1340988037
+s44412
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/MacApplication.h
+c000000004FEDDA850000000000008762
+t1340988037
+s34658
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/MacHelp.h
+c000000004FEDDA850000000000008B83
+t1340988037
+s35715
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/MacTextEditor.h
+c000000004FEDDA85000000000003B402
+t1340988037
+s242690
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/MacWindows.h
+c000000004FEDDA8500000000000653F3
+t1340988037
+s414707
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/Menus.h
+c000000004FEDDA85000000000003DCF7
+t1340988037
+s253175
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/Notification.h
+c000000004FEDDA850000000000001092
+t1340988037
+s4242
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/Scrap.h
+c000000004FEDDA8500000000000059CD
+t1340988037
+s22989
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/TSMTE.h
+c000000004FEDDA85000000000000271B
+t1340988037
+s10011
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/TextEdit.h
+c000000004FEDDA85000000000001315B
+t1340988037
+s78171
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/TextInputSources.h
+c000000004FEDDA85000000000000D276
+t1340988037
+s53878
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/TextServices.h
+c000000004FEDDA850000000000012915
+t1340988037
+s76053
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/Translation.h
+c000000004FEDDA850000000000002BD6
+t1340988037
+s11222
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/TranslationExtensions.h
+c000000004FEDDA8500000000000024EE
+t1340988037
+s9454
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/TypeSelect.h
+c000000004FEDDA850000000000001A70
+t1340988037
+s6768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HTMLRendering.framework/Headers/HTMLRendering.h
+c000000004F6DE38A000000000000D75C
+t1332601738
+s55132
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/Help.framework/Headers/AppleHelp.h
+c000000004F6DE38A0000000000001A33
+t1332601738
+s6707
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/Help.framework/Headers/Help.h
+c000000004F6DE38A0000000000000232
+t1332601738
+s562
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/ImageCapture.framework/Headers/ICAApplication.h
+c000000004F6DE38A0000000000014792
+t1332601738
+s83858
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/ImageCapture.framework/Headers/ICACamera.h
+c000000004F6DE38A000000000000316F
+t1332601738
+s12655
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/ImageCapture.framework/Headers/ICADevice.h
+c000000004F6DE38A0000000000001885
+t1332601738
+s6277
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/ImageCapture.framework/Headers/ImageCapture.h
+c000000004F6DE38A000000000000028A
+t1332601738
+s650
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/Ink.framework/Headers/Ink.h
+c000000004FEDDA85000000000000EB6D
+t1340988037
+s60269
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/NavigationServices.framework/Headers/Navigation.h
+c000000004F6DE38A0000000000013FF7
+t1332601738
+s81911
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/NavigationServices.framework/Headers/NavigationServices.h
+c000000004F6DE38A000000000000029C
+t1332601738
+s668
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/OpenScripting.framework/Headers/ASDebugging.h
+c000000004FEDDA850000000000002B27
+t1340988037
+s11047
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/OpenScripting.framework/Headers/ASRegistry.h
+c000000004FEDDA850000000000002E91
+t1340988037
+s11921
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/OpenScripting.framework/Headers/AppleScript.h
+c000000004FEDDA8500000000000025C9
+t1340988037
+s9673
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/OpenScripting.framework/Headers/DigitalHubRegistry.h
+c000000004FEDDA8500000000000006E6
+t1340988037
+s1766
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/OpenScripting.framework/Headers/FinderRegistry.h
+c000000004FEDDA8500000000000078EE
+t1340988037
+s30958
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/OpenScripting.framework/Headers/OSA.h
+c000000004FEDDA8500000000000127C4
+t1340988037
+s75716
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/OpenScripting.framework/Headers/OSAComp.h
+c000000004FEDDA8500000000000008C6
+t1340988037
+s2246
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/OpenScripting.framework/Headers/OSAGeneric.h
+c000000004FEDDA850000000000001364
+t1340988037
+s4964
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/OpenScripting.framework/Headers/OpenScripting.h
+c000000004FEDDA85000000000000049E
+t1340988037
+s1182
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/Print.framework/Headers/PMApplication.h
+c000000004F6DE38A00000000000025D6
+t1332601738
+s9686
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/Print.framework/Headers/PMApplicationDeprecated.h
+c000000004F6DE38A000000000000537E
+t1332601738
+s21374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/Print.framework/Headers/Print.h
+c000000004F6DE38A00000000000002B3
+t1332601738
+s691
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/SecurityHI.framework/Headers/KeychainHI.h
+c000000004FEDDA85000000000000284A
+t1340988037
+s10314
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/SecurityHI.framework/Headers/SecCertificateSupport.h
+c000000004F6DE38A00000000000018BF
+t1332601738
+s6335
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/SecurityHI.framework/Headers/SecurityHI.h
+c000000004FEDDA8500000000000002F4
+t1340988037
+s756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/SecurityHI.framework/Headers/URLAccess.h
+c000000004FEDDA85000000000000566A
+t1340988037
+s22122
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/SpeechRecognition.framework/Headers/SpeechRecognition.h
+c000000004FEDDA8500000000000084CF
+t1340988037
+s33999
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004FEDDA8500000000000005FE
+t1340988037
+s1534
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c000000004FC63BE4000000000001BA10
+t1338391524
+s113168
+
+N/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000004F6DD4BA00000000000064D0
+t1332597946
+s25808
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000005075CE8300000000021F3F70
+t1349897859
+s35602288
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004F6DD49C000000000000B750
+t1332597916
+s46928
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050C3DB7300000000003AA4D0
+t1355012979
+s3843280
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004F6DD49D0000000000006530
+t1332597917
+s25904
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004F6DD49D0000000000006560
+t1332597917
+s25952
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000050C3DB7400000000001195D0
+t1355012980
+s1152464
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004FC63BEB000000000060FA80
+t1338391531
+s6355584
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004F6DD4A0000000000000B870
+t1332597920
+s47216
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004FC63BEE000000000007CED0
+t1338391534
+s511696
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000005075D1420000000000120F60
+t1349898562
+s1183584
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000005075CE9C000000000002D360
+t1349897884
+s185184
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c000000005075D21E00000000004B9FB0
+t1349898782
+s4956080
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000005075D18F000000000032B7E0
+t1349898639
+s3323872
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/cairo/include/cairo/cairo-deprecated.h
+c0000000050A44BEE00000000000021FA
+t1352944622
+s8698
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/cairo/include/cairo/cairo-features.h
+c0000000050A44BEE000000000000031D
+t1352944622
+s797
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/cairo/include/cairo/cairo-pdf.h
+c0000000050A44BEE0000000000000C24
+t1352944622
+s3108
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/cairo/include/cairo/cairo-svg.h
+c0000000050A44BEE0000000000000ADD
+t1352944622
+s2781
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/cairo/include/cairo/cairo-version.h
+c0000000050A44BEE0000000000000094
+t1352944622
+s148
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/cairo/include/cairo/cairo.h
+c0000000050A44BEE0000000000016BCE
+t1352944622
+s93134
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/fmodex/include/fmod.h
+c0000000050A44BEE0000000000028E68
+t1352944622
+s167528
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/fmodex/include/fmod_codec.h
+c0000000050A44BEE000000000000334A
+t1352944622
+s13130
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/fmodex/include/fmod_dsp.h
+c0000000050A44BEE000000000000892F
+t1352944622
+s35119
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/fmodex/include/fmod_errors.h
+c0000000050A44BEE0000000000003408
+t1352944622
+s13320
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/fmodex/include/fmod_memoryinfo.h
+c0000000050A44BEE0000000000003C95
+t1352944622
+s15509
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/glew/include/GL/glew.h
+c0000000050A44BF000000000000C1916
+t1352944624
+s792854
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/glut/lib/osx/GLUT.framework
+c0000000050A44BF000000000000000CC
+t1352944624
+s204
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/glut/lib/osx/GLUT.framework/GLUT
+c0000000050A44BF00000000000093570
+t1352944624
+s603504
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/3d/of3dUtils.h
+c0000000050A44BF000000000000001B2
+t1352944624
+s434
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/3d/ofCamera.h
+c0000000050A44BF000000000000007E7
+t1352944624
+s2023
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/3d/ofEasyCam.h
+c0000000050A44BF0000000000000084E
+t1352944624
+s2126
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/3d/ofMesh.h
+c0000000050A44BF000000000000010F0
+t1352944624
+s4336
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/3d/ofNode.h
+c0000000050A44BF0000000000000142B
+t1352944624
+s5163
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/app/ofAppBaseWindow.h
+c0000000050A44BF00000000000000590
+t1352944624
+s1424
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/app/ofAppRunner.h
+c0000000050A44BF0000000000000075D
+t1352944624
+s1885
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/app/ofBaseApp.h
+c0000000050A44BF000000000000003A4
+t1352944624
+s932
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/communication/ofArduino.h
+c0000000050A44BF00000000000004239
+t1352944624
+s16953
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/communication/ofSerial.h
+c0000000050A44BF00000000000000D4C
+t1352944624
+s3404
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/events/ofEventUtils.h
+c0000000050A44BF00000000000000E80
+t1352944624
+s3712
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/events/ofEvents.h
+c0000000050A44BF00000000000001CB9
+t1352944624
+s7353
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/gl/ofFbo.h
+c0000000050A44BF0000000000000104A
+t1352944624
+s4170
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/gl/ofGLRenderer.h
+c0000000050A44BF000000000000013A0
+t1352944624
+s5024
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/gl/ofGLUtils.h
+c0000000050A44BF00000000000000D78
+t1352944624
+s3448
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/gl/ofLight.h
+c0000000050A44BF00000000000000934
+t1352944624
+s2356
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/gl/ofMaterial.h
+c0000000050A44BF00000000000000555
+t1352944624
+s1365
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/gl/ofShader.h
+c0000000050A44BF00000000000001039
+t1352944624
+s4153
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/gl/ofTexture.h
+c0000000050A44BF0000000000000164D
+t1352944624
+s5709
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/gl/ofVbo.h
+c0000000050A44BF00000000000000B4B
+t1352944624
+s2891
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/gl/ofVboMesh.h
+c0000000050A44BF0000000000000029E
+t1352944624
+s670
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/graphics/ofCairoRenderer.h
+c0000000050A44BF00000000000001627
+t1352944624
+s5671
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/graphics/ofGraphics.h
+c0000000050A44BF000000000000023BD
+t1352944624
+s9149
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/graphics/ofImage.h
+c0000000050A44BF00000000000002116
+t1352944624
+s8470
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/graphics/ofPath.h
+c0000000050A44BF00000000000001328
+t1352944624
+s4904
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/graphics/ofPixels.h
+c0000000050A44BF000000000000013D2
+t1352944624
+s5074
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/graphics/ofPolyline.h
+c0000000050A44BF00000000000001538
+t1352944624
+s5432
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/graphics/ofRendererCollection.h
+c0000000050A44BF00000000000002C1F
+t1352944624
+s11295
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/graphics/ofTessellator.h
+c0000000050A44BF00000000000000459
+t1352944624
+s1113
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/graphics/ofTrueTypeFont.h
+c0000000050A44BF00000000000000A3C
+t1352944624
+s2620
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/math/ofMath.h
+c0000000050A44BF00000000000000B46
+t1352944624
+s2886
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/math/ofMatrix3x3.h
+c0000000050A44BF00000000000000BB7
+t1352944624
+s2999
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/math/ofMatrix4x4.h
+c0000000050A44BF00000000000006D64
+t1352944624
+s28004
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/math/ofQuaternion.h
+c0000000050A44BF000000000000034A0
+t1352944624
+s13472
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/math/ofVec2f.h
+c0000000050A44BF000000000000043E6
+t1352944624
+s17382
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/math/ofVec3f.h
+c0000000050A44BF0000000000000654E
+t1352944624
+s25934
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/math/ofVec4f.h
+c0000000050A44BF0000000000000306F
+t1352944624
+s12399
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/math/ofVectorMath.h
+c0000000050A44BF00000000000000099
+t1352944624
+s153
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/sound/ofBaseSoundPlayer.h
+c0000000050A44BF00000000000000406
+t1352944624
+s1030
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/sound/ofBaseSoundStream.h
+c0000000050A44BF000000000000002D4
+t1352944624
+s724
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/sound/ofFmodSoundPlayer.h
+c0000000050A44BF000000000000006F4
+t1352944624
+s1780
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/sound/ofRtAudioSoundStream.h
+c0000000050A44BF0000000000000050F
+t1352944624
+s1295
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/sound/ofSoundPlayer.h
+c0000000050A44BF00000000000000724
+t1352944624
+s1828
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/sound/ofSoundStream.h
+c0000000050A44BF000000000000006DB
+t1352944624
+s1755
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/types/ofBaseTypes.h
+c0000000050A44BF000000000000031F9
+t1352944624
+s12793
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/types/ofColor.h
+c0000000050A44BF0000000000000159D
+t1352944624
+s5533
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/types/ofPoint.h
+c0000000050A44BF0000000000000003D
+t1352944624
+s61
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/types/ofRectangle.h
+c0000000050A44BF00000000000001BEF
+t1352944624
+s7151
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/types/ofTypes.h
+c0000000050A44BF0000000000000104B
+t1352944624
+s4171
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/utils/ofConstants.h
+c0000000050A44BF00000000000004003
+t1352944624
+s16387
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/utils/ofFileUtils.h
+c0000000050A44BF00000000000001EE6
+t1352944624
+s7910
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/utils/ofLog.h
+c0000000050A44BF000000000000015C0
+t1352944624
+s5568
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/utils/ofSystemUtils.h
+c0000000050A44BF00000000000000202
+t1352944624
+s514
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/utils/ofThread.h
+c0000000050A44BF0000000000000141A
+t1352944624
+s5146
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/utils/ofURLFileLoader.h
+c0000000050A44BF000000000000008C4
+t1352944624
+s2244
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/utils/ofUtils.h
+c0000000050A44BF000000000000015A6
+t1352944624
+s5542
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/video/ofQTKitGrabber.h
+c0000000050A44BF00000000000000C08
+t1352944624
+s3080
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/video/ofQTKitPlayer.h
+c0000000050A44BF0000000000000132D
+t1352944624
+s4909
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/video/ofVideoGrabber.h
+c0000000050A44BF00000000000000B2F
+t1352944624
+s2863
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/openFrameworks/video/ofVideoPlayer.h
+c0000000050A44BF00000000000000B6E
+t1352944624
+s2926
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/AbstractDelegate.h
+c0000000050A44BF00000000000000AF0
+t1352944624
+s2800
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/AbstractEvent.h
+c0000000050A44BF00000000000002EED
+t1352944624
+s12013
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/ActiveMethod.h
+c0000000050A44BF00000000000001C64
+t1352944624
+s7268
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/ActiveResult.h
+c0000000050A44BF00000000000002E66
+t1352944624
+s11878
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/ActiveRunnable.h
+c0000000050A44BF00000000000001785
+t1352944624
+s6021
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/ActiveStarter.h
+c0000000050A44BF00000000000000927
+t1352944624
+s2343
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/AtomicCounter.h
+c0000000050A44BF00000000000002138
+t1352944624
+s8504
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/AutoPtr.h
+c0000000050A44BF00000000000001E0C
+t1352944624
+s7692
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Bugcheck.h
+c0000000050A44BF000000000000014A9
+t1352944624
+s5289
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Condition.h
+c0000000050A44BF00000000000001236
+t1352944624
+s4662
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Config.h
+c0000000050A44BF00000000000000EA4
+t1352944624
+s3748
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/DefaultStrategy.h
+c0000000050A44BF00000000000000D64
+t1352944624
+s3428
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Delegate.h
+c0000000050A44BF00000000000001B3D
+t1352944624
+s6973
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Event.h
+c0000000050A44BF00000000000000E58
+t1352944624
+s3672
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Event_POSIX.h
+c0000000050A44BF00000000000000A91
+t1352944624
+s2705
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Exception.h
+c0000000050A44BF000000000000028B1
+t1352944624
+s10417
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Expire.h
+c0000000050A44BF00000000000000D44
+t1352944624
+s3396
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/FIFOEvent.h
+c0000000050A44BF000000000000009FD
+t1352944624
+s2557
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/FIFOStrategy.h
+c0000000050A44BF00000000000000962
+t1352944624
+s2402
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/File.h
+c0000000050A44BF00000000000001FCC
+t1352944624
+s8140
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/File_UNIX.h
+c0000000050A44BF00000000000000BC1
+t1352944624
+s3009
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Foundation.h
+c0000000050A44BF000000000000010F9
+t1352944624
+s4345
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/FunctionDelegate.h
+c0000000050A44BF000000000000017B0
+t1352944624
+s6064
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Mutex.h
+c0000000050A44BF00000000000001DD6
+t1352944624
+s7638
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Mutex_POSIX.h
+c0000000050A44BF00000000000000AC2
+t1352944624
+s2754
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/NotificationStrategy.h
+c0000000050A44BF00000000000000B62
+t1352944624
+s2914
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Platform.h
+c0000000050A44BF00000000000001CBD
+t1352944624
+s7357
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Platform_POSIX.h
+c0000000050A44BF00000000000000843
+t1352944624
+s2115
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/RefCountedObject.h
+c0000000050A44BF00000000000000BB1
+t1352944624
+s2993
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Runnable.h
+c0000000050A44BF00000000000000861
+t1352944624
+s2145
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/ScopedLock.h
+c0000000050A44BF00000000000000CC5
+t1352944624
+s3269
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/ScopedUnlock.h
+c0000000050A44BF0000000000000092B
+t1352944624
+s2347
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/SharedPtr.h
+c0000000050A44BF00000000000002278
+t1352944624
+s8824
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/SignalHandler.h
+c0000000050A44BF00000000000001205
+t1352944624
+s4613
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/SingletonHolder.h
+c0000000050A44BF00000000000000A67
+t1352944624
+s2663
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Thread.h
+c0000000050A44BF00000000000001E48
+t1352944624
+s7752
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/ThreadPool.h
+c0000000050A44BF00000000000001C8A
+t1352944624
+s7306
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Thread_POSIX.h
+c0000000050A44BF000000000000014C0
+t1352944624
+s5312
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Timestamp.h
+c0000000050A44BF00000000000001A41
+t1352944624
+s6721
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/poco/include/Poco/Types.h
+c0000000050A44BF00000000000001ABE
+t1352944624
+s6846
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/tess2/include/tesselator.h
+c0000000050A44C000000000000001C63
+t1352944640
+s7267
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app
+t1359744851
+s102
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/Frameworks/GLUT.framework
+t1359742693
+s204
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/Info.plist
+t1359742647
+s1017
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/MacOS/snakeFollowingDebug
+t1359744851
+s4833324
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/PkgInfo
+t1359742647
+s8
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/main.o
+t1359744832
+s90292
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/snakeFollowingDebug.LinkFileList
+c00000000510C06B7000000000000012F
+t1359742647
+s303
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/testApp.o
+t1359744850
+s94348
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c00000000510C06B70000000000000114
+t1359742647
+s276
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/main.cpp
+c00000000510C012A000000000000019E
+t1359741226
+s414
+i"ofMain.h"
+i"testApp.h"
+i"ofAppGlutWindow.h"
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/testApp.cpp
+c00000000510C0F510000000000000775
+t1359744849
+s1909
+
+N/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/testApp.h
+c00000000510C0F370000000000000210
+t1359744823
+s528
+
+N/Users/meR/Documents/of_v0073_osx_release/libs/openFrameworks/app/ofAppGlutWindow.h
+c0000000050A44BF00000000000000701
+t1352944624
+s1793
+
+N/Users/meR/Documents/of_v0073_osx_release/libs/openFrameworks/ofMain.h
+c0000000050A44BF00000000000000686
+t1352944624
+s1670
+
+N/Users/meR/Documents/of_v0073_osx_release/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
+c0000000050FD883000000000015C01E0
+t1358792752
+s22807008
+
+N/var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gwokzkrqagroofdgrapjscjerteq/Carbon.h.pth
+t1359742679
+s13013228
+
+NopenFrameworks-Info.plist
+c00000000510C01340000000000000277
+t1359741236
+s631
+
+CBuild AST from /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/main.cpp
+r0
+
+CBuild AST from /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/testApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesab94f23047bcb641^da74f43047bcb641^---0#1#0#--18"Check dependencies36"02532C1B-C221-436B-8022-6D9FB21A1473-
+
+CCompileC build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/main.o /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s381437624.334688
+e381437632.951653
+r1
+xCompileC
+xbuild/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/main.o
+x/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/main.cppb20e57b846bcb641^e59df3c046bcb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present-0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/main.cpp0000000000000000^3350"CompileC build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.7 -g -mssse3 -Wno-conversion -Wno-sign-conversion -I/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/snakeFollowingDebug.hmap -I/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -Isrc -I/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/DerivedSources/i386 -I/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/DerivedSources -F/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin -F/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -include /var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gwokzkrqagroofdgrapjscjerteq/Carbon.h -MMD -MT dependencies -MF /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/main.dia -c /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/main.cpp -o /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/main.o36"1F525C17-32D3-42C3-B2D5-AEA6F12223A2-
+
+CCompileC build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/testApp.o /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s381437649.293296
+e381437650.452159
+r1
+xCompileC
+xbuild/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/testApp.o
+x/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/testApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/testApp.cpp9e614ed146bcb641^40bf73d246bcb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present-0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/testApp.cpp0000000000000000^3368"CompileC build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/testApp.o src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.7 -g -mssse3 -Wno-conversion -Wno-sign-conversion -I/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/snakeFollowingDebug.hmap -I/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -Isrc -I/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/DerivedSources/i386 -I/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/DerivedSources -F/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin -F/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -include /var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gwokzkrqagroofdgrapjscjerteq/Carbon.h -MMD -MT dependencies -MF /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/testApp.d --serialize-diagnostics /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/testApp.dia -c /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/src/testApp.cpp -o /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/testApp.o36"1C1DBBA4-8905-4CDF-BA15-295547137E6F-
+
+CLd /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/MacOS/snakeFollowingDebug normal i386
+s381437650.458512
+e381437651.097651
+r1
+xLd
+x/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/MacOS/snakeFollowingDebug
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Link /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/MacOS/snakeFollowingDebug077975d246bcb641^1d0019d346bcb641^---0#0#0#--2129"Ld bin/snakeFollowingDebug.app/Contents/MacOS/snakeFollowingDebug normal i386    cd /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin -F/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin -F/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/glut/lib/osx -filelist /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/snakeFollowingDebug.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../libs/poco/lib/osx/PocoCrypto.a ../../../libs/poco/lib/osx/PocoData.a ../../../libs/poco/lib/osx/PocoDataODBC.a ../../../libs/poco/lib/osx/PocoDataSQLite.a ../../../libs/poco/lib/osx/PocoFoundation.a ../../../libs/poco/lib/osx/PocoNet.a ../../../libs/poco/lib/osx/PocoNetSSL.a ../../../libs/poco/lib/osx/PocoUtil.a ../../../libs/poco/lib/osx/PocoXML.a ../../../libs/poco/lib/osx/PocoZip.a ../../../libs/tess2/lib/osx/tess2.a ../../../libs/glew/lib/osx/glew.a ../../../libs/cairo/lib/osx/cairo-script-interpreter.a ../../../libs/cairo/lib/osx/cairo.a ../../../libs/cairo/lib/osx/pixman-1.a ../../../libs/fmodex/lib/osx/libfmodex.dylib ../../../libs/rtAudio/lib/osx/rtAudio.a -framework Accelerate -framework QTKit -framework GLUT /Users/meR/Documents/of_v0073_osx_release/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework OpenGL -framework QuickTime -framework AppKit -framework Cocoa -framework IOKit -framework CoreVideo -o /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/MacOS/snakeFollowingDebug36"0A022951-2E19-4C8F-9F40-29D68900E254-
+
+CPBXCp ../../../libs/glut/lib/osx/GLUT.framework bin/snakeFollowingDebug.app/Contents/Frameworks/GLUT.framework
+s381435493.290165
+e381435493.948677
+r1
+xPBXCp
+x../../../libs/glut/lib/osx/GLUT.framework
+xbin/snakeFollowingDebug.app/Contents/Frameworks/GLUT.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy bin/snakeFollowingDebug.app/Contents/Frameworks/GLUT.framework5c594a653ebcb641^a0dcf2653ebcb641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/Frameworks/GLUT.framework000000000080d041^632"PBXCp ../../../libs/glut/lib/osx/GLUT.framework bin/snakeFollowingDebug.app/Contents/Frameworks/GLUT.framework    cd /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/glut/lib/osx/GLUT.framework /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/Frameworks36"7151A318-7352-4C67-810D-5009EC634E64-
+
+CPhaseScriptExecution "Run Script" /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+s381437744.994742
+e381437745.249449
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'f92e013147bcb641^6edb3f3147bcb641^---0#0#0#--25052"PhaseScriptExecution "Run Script" build/snakeFollowing.build/Debug/snakeFollowing.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh    cd /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER meR    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386"    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build    setenv BUILD_ROOT /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin    setenv CACHE_ROOT /var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin    setenv CONFIGURATION_TEMP_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug    setenv CONTENTS_FOLDER_PATH snakeFollowingDebug.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH snakeFollowingDebug.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/snakeFollowing.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME snakeFollowingDebug.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin    setenv EMBEDDED_PROFILE_NAME embedded.provisionprofile    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH snakeFollowingDebug.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH snakeFollowingDebug.app/Contents/MacOS    setenv EXECUTABLE_NAME snakeFollowingDebug    setenv EXECUTABLE_PATH snakeFollowingDebug.app/Contents/MacOS/snakeFollowingDebug    setenv FILE_LIST /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH snakeFollowingDebug.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin\"  \"/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 "\"/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME snakeFollowingDebug.app    setenv GCC3_VERSION 3.3    setenv GCC_AUTO_VECTORIZATION YES    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE YES    setenv GCC_ENABLE_SSE3_EXTENSIONS YES    setenv GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS YES    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_MODEL_TUNING NONE    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS YES    setenv GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO NO    setenv GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL NO    setenv GCC_WARN_UNINITIALIZED_AUTOS NO    setenv GCC_WARN_UNUSED_VALUE NO    setenv GCC_WARN_UNUSED_VARIABLE NO    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_CAIRO "\"../../../libs/cairo/include/cairo\""    setenv HEADER_FMODEX "\"../../../libs/fmodex/include\""    setenv HEADER_FREEIMAGE "\"../../../libs/FreeImage/include\""    setenv HEADER_FREETYPE "\"../../../libs/freetype/include\""    setenv HEADER_FREETYPE2 "\"../../../libs/freetype/include/freetype2\""    setenv HEADER_GLEW "\"../../../libs/glew/include\""    setenv HEADER_OF "\"../../../libs/openFrameworks/**\""    setenv HEADER_POCO "\"../../../libs/poco/include\""    setenv HEADER_RTAUDIO "\"../../../libs/rtAudio/include\""    setenv HEADER_SEARCH_PATHS "\"/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/include\" \"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtAudio/include\" src"    setenv HEADER_TESS2 "\"../../../libs/tess2/include\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE openFrameworks-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH snakeFollowingDebug.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH snakeFollowingDebug.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/snakeFollowing.dst/Users/meR/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER meR    setenv INSTALL_PATH /Users/meR/Applications    setenv INSTALL_ROOT /tmp/snakeFollowing.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH snakeFollowingDebug.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/snakeFollowingDebug-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin\"                                                              "    setenv LIB_CAIRO1 "\"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\""    setenv LIB_CAIRO2 "\"../../../libs/cairo/lib/osx/cairo.a\""    setenv LIB_CAIRO3 "\"../../../libs/cairo/lib/osx/pixman-1.a\""    setenv LIB_FMODEX "\"../../../libs/fmodex/lib/osx/libfmodex.dylib\""    setenv LIB_FREEIMAGE "\"../../../libs/FreeImage/lib/osx/freeimage.a\""    setenv LIB_FREETYPE "\"../../../libs/freetype/lib/osx/freetype.a\""    setenv LIB_GLEW "\"../../../libs/glew/lib/osx/glew.a\""    setenv LIB_GLUT "\"../../../libs/glut/lib/osx/GLUT.framework/Versions/A/GLUT\""    setenv LIB_POCO_1 "\"../../../libs/poco/lib/osx/PocoCrypto.a\""    setenv LIB_POCO_10 "\"../../../libs/poco/lib/osx/PocoZip.a\""    setenv LIB_POCO_2 "\"../../../libs/poco/lib/osx/PocoData.a\""    setenv LIB_POCO_3 "\"../../../libs/poco/lib/osx/PocoDataODBC.a\""    setenv LIB_POCO_4 "\"../../../libs/poco/lib/osx/PocoDataSQLite.a\""    setenv LIB_POCO_5 "\"../../../libs/poco/lib/osx/PocoFoundation.a\""    setenv LIB_POCO_6 "\"../../../libs/poco/lib/osx/PocoNet.a\""    setenv LIB_POCO_7 "\"../../../libs/poco/lib/osx/PocoNetSSL.a\""    setenv LIB_POCO_8 "\"../../../libs/poco/lib/osx/PocoUtil.a\""    setenv LIB_POCO_9 "\"../../../libs/poco/lib/osx/PocoXML.a\""    setenv LIB_RTAUDIO "\"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv LIB_TESS "\"../../../libs/tess2/lib/osx/tess2.a\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal/i386/snakeFollowingDebug.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH snakeFollowingDebug.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.7    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 11G63b    setenv MAC_OS_X_VERSION_ACTUAL 1075    setenv MAC_OS_X_VERSION_MAJOR 1070    setenv MAC_OS_X_VERSION_MINOR 0705    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Objects-normal    setenv OBJROOT /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build    setenv OF_CORE_HEADERS "\"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtAudio/include\""    setenv OF_CORE_LIBS "\"../../../libs/poco/lib/osx/PocoCrypto.a\" \"../../../libs/poco/lib/osx/PocoData.a\" \"../../../libs/poco/lib/osx/PocoDataODBC.a\" \"../../../libs/poco/lib/osx/PocoDataSQLite.a\" \"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoNetSSL.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoZip.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv OF_PATH ../../..    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CPLUSPLUSFLAGS "-D__MACOSX_CORE__ -lpthread -mtune=native"    setenv OTHER_LDFLAGS "\"../../../libs/poco/lib/osx/PocoCrypto.a\" \"../../../libs/poco/lib/osx/PocoData.a\" \"../../../libs/poco/lib/osx/PocoDataODBC.a\" \"../../../libs/poco/lib/osx/PocoDataSQLite.a\" \"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoNetSSL.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoZip.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH snakeFollowingDebug.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/PkgInfo    setenv PKGINFO_PATH snakeFollowingDebug.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform    setenv PLATFORM_NAME macosx    setenv PLATFORM_PREFERRED_ARCH x86_64    setenv PLATFORM_PRODUCT_BUILD_VERSION 4E3002    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH snakeFollowingDebug.app/Contents/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH snakeFollowingDebug.app/Contents/PrivateHeaders    setenv PRODUCT_NAME snakeFollowingDebug    setenv PRODUCT_SETTINGS_PATH /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/openFrameworks-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT snakeFollowing    setenv PROJECT_DERIVED_FILE_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/DerivedSources    setenv PROJECT_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing    setenv PROJECT_FILE_PATH /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/snakeFollowing.xcodeproj    setenv PROJECT_NAME snakeFollowing    setenv PROJECT_TEMP_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build    setenv PUBLIC_HEADERS_FOLDER_PATH snakeFollowingDebug.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH snakeFollowingDebug.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk    setenv SDK_NAME macosx10.7    setenv SDK_PRODUCT_BUILD_VERSION 11E52    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH snakeFollowingDebug.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH snakeFollowingDebug.app/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing    setenv SRCROOT /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_PLATFORMS macosx    setenv SYMROOT /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME snakeFollowing    setenv TARGET_BUILD_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin    setenv TARGET_NAME snakeFollowing    setenv TARGET_TEMP_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build    setenv TEMP_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build    setenv TEMP_FILES_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build    setenv TEMP_FILE_DIR /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build    setenv TEMP_ROOT /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build    setenv TEST_AFTER_BUILD NO    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH snakeFollowingDebug.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER meR    setenv USER_APPS_DIR /Users/meR/Applications    setenv USER_LIBRARY_DIR /Users/meR/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH snakeFollowingDebug.app/Contents/version.plist    setenv VERSION_INFO_BUILDER meR    setenv VERSION_INFO_FILE snakeFollowingDebug_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:snakeFollowingDebug  PROJECT:snakeFollowing-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME snakeFollowingDebug.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4E3002    setenv XCODE_VERSION_ACTUAL 0433    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0430    setenv YACC yacc    /bin/sh -c /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh36"DD6F23D0-4765-44CD-A01D-C246676D32FF-
+
+CProcessInfoPlistFile /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/Info.plist openFrameworks-Info.plist
+s381435447.791230
+e381435448.043508
+r1
+xProcessInfoPlistFile
+x/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/Info.plist
+xopenFrameworks-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Process openFrameworks-Info.plist9e09dd373ebcb641^29260b383ebcb641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/openFrameworks-Info.plist0000000000000000^510"ProcessInfoPlistFile bin/snakeFollowingDebug.app/Contents/Info.plist openFrameworks-Info.plist    cd /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing    builtin-infoPlistUtility openFrameworks-Info.plist -genpkginfo /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app/Contents/Info.plist36"44864486-A42F-4897-BCCD-09B81F3563D5-
+
+CProcessPCH++ /Users/meR/Library/Developer/Xcode/DerivedData/snakeFollowing-cjmtdwhrwanaqggdpzuukrpxqmvv/Index/PrecompiledHeaders/Carbon-dmvnfmaqdmlfgyedsjtqzvyithbx_ast/Carbon.h.pth /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gwokzkrqagroofdgrapjscjerteq/Carbon.h.pth /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s381435448.052461
+e381435479.650128
+r1
+xProcessPCH++
+x/var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gwokzkrqagroofdgrapjscjerteq/Carbon.h.pth
+x/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:131:3: warning: 'CMProfileHandle' is deprecated [-Wdeprecated-declarations]
+o  CMProfileHandle     profile;
+o  ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:132:3: warning: 'CMColor' is deprecated [-Wdeprecated-declarations]
+o  CMColor             color;
+o  ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:139:3: warning: 'CMProfileRef' is deprecated [-Wdeprecated-declarations]
+o  CMProfileRef        profile;
+o  ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:140:3: warning: 'CMColor' is deprecated [-Wdeprecated-declarations]
+o  CMColor             color;
+o  ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:310:3: warning: 'CMProfileHandle' is deprecated [-Wdeprecated-declarations]
+o  CMProfileHandle     dstProfile;
+o  ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:328:3: warning: 'CMProfileRef' is deprecated [-Wdeprecated-declarations]
+o  CMProfileRef        dstProfile;             /* Currently ignored */
+o  ^
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:54:3: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]
+o  CMDisplayIDType     displayID;              /* Contains an hDC on Win32 */
+o  ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:56:3: warning: 'CMProfileLocation' is deprecated [-Wdeprecated-declarations]
+o  CMProfileLocation * profileLocationPtr;     /* For returning the profile */
+o  ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:61:55: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]
+otypedef CALLBACK_API( Boolean , CanCalibrateProcPtr )(CMDisplayIDType displayID, Str255 errMessage);
+o                                                      ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:154:3: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]
+o  CMDisplayIDType  displayID,
+o  ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:180:87: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]
+o    inline Boolean                                              InvokeCanCalibrateUPP(CMDisplayIDType displayID, Str255 errMessage, CanCalibrateUPP userUPP) { return (*userUPP)(displayID, errMessage); }
+o                                                                                      ^
+o11 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection169"Precompile /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h313f13383ebcb641^ad6da6573ebcb641^-4804"clang: warning: -lpthread: 'linker' input unused when '-c' is presentIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:131:3: warning: 'CMProfileHandle' is deprecated [-Wdeprecated-declarations]  CMProfileHandle     profile;  ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:132:3: warning: 'CMColor' is deprecated [-Wdeprecated-declarations]  CMColor             color;  ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:139:3: warning: 'CMProfileRef' is deprecated [-Wdeprecated-declarations]  CMProfileRef        profile;  ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:140:3: warning: 'CMColor' is deprecated [-Wdeprecated-declarations]  CMColor             color;  ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:310:3: warning: 'CMProfileHandle' is deprecated [-Wdeprecated-declarations]  CMProfileHandle     dstProfile;  ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:328:3: warning: 'CMProfileRef' is deprecated [-Wdeprecated-declarations]  CMProfileRef        dstProfile;             /* Currently ignored */  ^In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:54:3: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]  CMDisplayIDType     displayID;              /* Contains an hDC on Win32 */  ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:56:3: warning: 'CMProfileLocation' is deprecated [-Wdeprecated-declarations]  CMProfileLocation * profileLocationPtr;     /* For returning the profile */  ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:61:55: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]typedef CALLBACK_API( Boolean , CanCalibrateProcPtr )(CMDisplayIDType displayID, Str255 errMessage);                                                      ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:154:3: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]  CMDisplayIDType  displayID,  ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:180:87: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]    inline Boolean                                              InvokeCanCalibrateUPP(CMDisplayIDType displayID, Str255 errMessage, CanCalibrateUPP userUPP) { return (*userUPP)(displayID, errMessage); }                                                                                      ^11 warnings generated.11(36%IDEClangDiagnosticActivityLogMessage2@31"'CMProfileHandle' is deprecated-381435479#18446744073709551615#0#2(2@184"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@174"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@224"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^32#9#32#9#656#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@213"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h0000000000000000^130#2#130#2#3573#0#12"Deprecations--2@23"'CMColor' is deprecated-381435479#18446744073709551615#0#2(2@184"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@174"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@224"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^32#9#32#9#656#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@213"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h0000000000000000^131#2#131#2#3604#0#12"Deprecations--2@28"'CMProfileRef' is deprecated-381435479#18446744073709551615#0#2(2@184"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@174"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@224"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^32#9#32#9#656#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@213"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h0000000000000000^138#2#138#2#3780#0#12"Deprecations--2@23"'CMColor' is deprecated-381435479#18446744073709551615#0#2(2@184"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@174"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@224"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^32#9#32#9#656#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@213"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h0000000000000000^139#2#139#2#3811#0#12"Deprecations--2@31"'CMProfileHandle' is deprecated-381435479#18446744073709551615#0#2(2@184"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@174"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@224"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^32#9#32#9#656#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@213"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h0000000000000000^309#2#309#2#10632#0#12"Deprecations--2@28"'CMProfileRef' is deprecated-381435479#18446744073709551615#0#2(2@184"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@174"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@224"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^32#9#32#9#656#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@213"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h0000000000000000^327#2#327#2#11173#0#12"Deprecations--2@31"'CMDisplayIDType' is deprecated-381435479#18446744073709551615#0#2(2@184"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@174"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@224"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^36#9#36#9#727#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h0000000000000000^53#2#53#2#1128#0#12"Deprecations--2@33"'CMProfileLocation' is deprecated-381435479#18446744073709551615#0#2(2@184"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@174"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@224"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^36#9#36#9#727#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h0000000000000000^55#2#55#2#1296#0#12"Deprecations--2@31"'CMDisplayIDType' is deprecated-381435479#18446744073709551615#0#2(2@184"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@174"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@224"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^36#9#36#9#727#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h0000000000000000^60#54#60#54#1620#0#12"Deprecations--2@31"'CMDisplayIDType' is deprecated-381435479#18446744073709551615#0#2(2@184"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@174"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@224"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^36#9#36#9#727#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h0000000000000000^153#2#153#2#4291#0#12"Deprecations--2@31"'CMDisplayIDType' is deprecated-381435479#18446744073709551615#0#2(2@184"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@174"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@224"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:-381435479#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^36#9#36#9#727#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@214"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h0000000000000000^179#86#179#86#5686#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@174"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^3473"ProcessPCH++ /var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gwokzkrqagroofdgrapjscjerteq/Carbon.h.pth /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.7 -g -mssse3 -Wno-conversion -Wno-sign-conversion -I/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/snakeFollowingDebug.hmap -I/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -Isrc -I/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/DerivedSources/i386 -I/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/build/snakeFollowing.build/Debug/snakeFollowing.build/DerivedSources -F/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin -F/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native --serialize-diagnostics /var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gwokzkrqagroofdgrapjscjerteq/Carbon.h.dia -c /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gwokzkrqagroofdgrapjscjerteq/Carbon.h.pth -MMD -MT dependencies -MF /var/folders/_h/2q6vj9y1703c620bghhffml00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gwokzkrqagroofdgrapjscjerteq/Carbon.h.d36"5DD963DB-7CDE-4B41-9EE4-CE424BA21A4C-
+
+CTouch /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app
+s381437651.208765
+e381437651.246230
+r1
+xTouch
+x/Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Touch /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.appf27d35d346bcb641^74093fd346bcb641^---0#0#0#--229"Touch bin/snakeFollowingDebug.app    cd /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing    /usr/bin/touch -c /Users/meR/Documents/of_v0073_osx_release/apps/myApps/snakeFollowing/bin/snakeFollowingDebug.app36"19E3B27B-AF19-4E2D-8941-0FBA00D07A57-
+
